@@ -1,3 +1,6 @@
-# E-commers
+# E-commers Project
  Its completely made up a full stask using react,nodejs, etc....
-![Screenshot (24)](https://user-images.githubusercontent.com/113034213/236543635-eada7cac-d7b8-4e65-ac14-bab004c37fcd.png)
+ 
+ ### Demo of the  project provided below video
+ 
+https://user-images.githubusercontent.com/113034213/236550828-76d45044-1480-4415-83c2-bfcf5a6fe2ef.mp4
